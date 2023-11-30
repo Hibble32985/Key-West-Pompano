@@ -14,11 +14,19 @@ Upon the completion of the quiz, the quiz taker can save the score with his/her 
 
 **CREDITS/ACKNOWLEDGEMENTS:**
 Amanda Paulette: general assistance/tutoring to create quiz
+
 https://stackoverflow.com: consulted for better understanding of what was needed for code writing
+
 https://www.w3schools.com: consulted for better understanding of what was needed for code writing
+
 https://www.w3schools.com: consulted for better understanding of what was needed for code writing
+
 kkarwrites - https://github.com/kkarrwrites/boot-camp-module-04-challenge-code-quiz: used as a guide for overall understanding, review and comparison of script.js, style.css, index.html
+
 AskBCS Learning Assistants for debugging script.js file
+
 Xpert Learning Assistant for writing and testing code, clarification of terms
+
 vpham26 - https://github.com/vpham26/Web-API-Code-Quiz-Challenge: used as a guide for overall understanding, review and comparison of script.js, style.css, index.html
+
 jhackwell - https://github.com/jhackwell/disney-challenge: used as a guide for overall understanding, review and comparison of script.js, style.css, index.html code that included audio, multiple images
