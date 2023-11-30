@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Code Quiz</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <header>
+      <p id="view-high-scores">View High Scores</p>
+      <p>Time: <span id="time">60
+      </span></p>
+    </header>
+    <main>
+      <section id="introduction">
+        <h1>Coding Quiz Challenge</h1>
+        <p>
+          Try to select the correct answers to the code-related questions in this quiz in the given time limit. Be aware that incorrect answers will result in a penalty and both your score/time will have a full ten seconds docked.
+        </p>
+        <button id="button_start_quiz">Start Quiz</button>
+      </section>
+      <section id="quiz" class="hidden">
+        <h1 id="question">Question</h1>
+        <div id="answers"></div>
+        <h2 id="correct-incorrect"></h2>
+      </section>
+      <section id="done" class="hidden">
+        <h1>El Fin!</h1>
+        <p>Tah-dah! Your Final score is <span id="score">0</span>.</p>
+        <form id="form">
+          <label for="initials">Enter Initials: </label
+          ><input type="text" name="initials" id="initials" />
+          <input type="submit" value="Submit" id="submit" />
+        </form>
+      </section>
+      <section id="high-scores" class="hidden">
+        <h1>High Scores</h1>
+        <ul id="high-scores-container"></ul>
+        <button id="button__go-back">Go Back</button>
+        <button id="button__clear-high-scores">Clear High Scores</button>
+      </section>
+    </main>
+  </body>
+</html>
