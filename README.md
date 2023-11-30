@@ -13,10 +13,14 @@ Upon the completion of the quiz, the quiz taker can save the score with his/her 
 
 ![Code Challenge image](https://github.com/Hibble32985/Key-West-Pompano/assets/148695159/77e4d434-f89b-489c-9725-3ada420dfdd8)
 
+<u>**deployment URL:**<u/>
+https://hibble32985.github.io/Key-West-Pompano/
+
 <u>**repository URL:**</u>
 https://github.com/Hibble32985/Key-West-Pompano
 
 **CREDITS/ACKNOWLEDGEMENTS:**
+
 Amanda Paulette: general assistance/tutoring to create quiz
 
 https://stackoverflow.com: consulted for better understanding of what was needed for code writing
