@@ -6,8 +6,19 @@ The timed quiz will be technical in nature with interview questions that can be 
 
 This quiz will aid one in becoming a more proficient developer as it will help reflect where additional attention may be needed in professional knowledge.  Using such a tool will not only be exceptionally good for practice purposes, it will assist the quiz taker in being well-prepared for a technical interview in the future.
 
-To participate in this code quiz, it will commence when the start button is pressed.  Once this has been done the timer will begin automatically and a question will be presented to the quiz taker.  A response must be made to each question. Upon commiting and submitting an answer to the displayed question, another question will be presented until the allotted time is complete at which the quiz will be over and no longer continue.  
-
-Once all questions have answers submitted OR the times reaches 0 (zero), whichever comes first, the quiz is over.   Time is subtracted from the clock whether or not a question has an incorrect or correct answer.
+To participate in this code quiz, it will commence when the start button is pressed.  Once this has been done the timer will begin automatically and a question will be presented to the quiz taker.  A response must be made to each question.  The answer will be noted as correct or incorrect immediately. An incorrect response will result in time subtracted from the clock. Upon commiting to and submitting an answer to the displayed question, another question will be presented until the allotted time is complete (0) or all questions have been answered at which the quiz will be over and no longer continue.  
 
 Upon the completion of the quiz, the quiz taker can save the score with his/her initials entered to correspond.
+
+![Code Challenge image](https://github.com/Hibble32985/Key-West-Pompano/assets/148695159/12546a71-4387-4eeb-85e6-4d9b7806fb76)
+
+**CREDITS/ACKNOWLEDGEMENTS:**
+Amanda Paulette: general assistance/tutoring to create quiz
+https://stackoverflow.com: consulted for better understanding of what was needed for code writing
+https://www.w3schools.com: consulted for better understanding of what was needed for code writing
+https://www.w3schools.com: consulted for better understanding of what was needed for code writing
+kkarwrites - https://github.com/kkarrwrites/boot-camp-module-04-challenge-code-quiz: used as a guide for overall understanding, review and comparison of script.js, style.css, index.html
+AskBCS Learning Assistants for debugging script.js file
+Xpert Learning Assistant for writing and testing code, clarification of terms
+vpham26 - https://github.com/vpham26/Web-API-Code-Quiz-Challenge: used as a guide for overall understanding, review and comparison of script.js, style.css, index.html
+jhackwell - https://github.com/jhackwell/disney-challenge: used as a guide for overall understanding, review and comparison of script.js, style.css, index.html code that included audio, multiple images
