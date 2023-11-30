@@ -10,7 +10,11 @@ To participate in this code quiz, it will commence when the start button is pres
 
 Upon the completion of the quiz, the quiz taker can save the score with his/her initials entered to correspond.
 
-![Code Challenge image](https://github.com/Hibble32985/Key-West-Pompano/assets/148695159/12546a71-4387-4eeb-85e6-4d9b7806fb76)
+
+![Code Challenge image](https://github.com/Hibble32985/Key-West-Pompano/assets/148695159/77e4d434-f89b-489c-9725-3ada420dfdd8)
+
+<u>**repository URL:**</u>
+https://github.com/Hibble32985/Key-West-Pompano
 
 **CREDITS/ACKNOWLEDGEMENTS:**
 Amanda Paulette: general assistance/tutoring to create quiz
