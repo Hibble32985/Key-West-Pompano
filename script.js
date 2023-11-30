@@ -309,3 +309,4 @@ clearScoresButtonElement.addEventListener("click", function () {
     );
   }
 });
+//testing
